@@ -205,8 +205,8 @@ The following course outline is tentative and subject to change when and where d
 | 1/26 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
 | 2/2 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
 | 2/9 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
-| 2/16 | | Recommender Systems | MP#1 - pt2 |
-| 2/23| Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
+| 2/16 | Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | MP#1 - pt2 |
+| 2/23| | Recommender Systems | Competition#1 Due |
 | 3/2 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
 | 3/9 | Basic Classification - Part1 | Naive Bayes; Logistic Regression | MP#2 - pt2 |
 | 3/16| Spring Recess, **NO CLASS MEETING** | 
