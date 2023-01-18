@@ -9,8 +9,8 @@ In this competition, you are provided with data regarding successful U.S. IPOs f
 
 ## General Information about the Project
 - Started: __12:00 AM ETC, Jan. 26th, 2023, Thursday__
-- Milestone Checkpoint: __11:59 PM ETC, Feb. 9th, 2022, Thursday,__
-- Submission Deadline: __11:59 PM ETC, Feb. 23th, 2022, Thursday__
+- Milestone Checkpoint: __11:59 PM ETC, Feb. 9th, 2023, Thursday,__
+- Submission Deadline: __11:59 PM ETC, Feb. 23th, 2023, Thursday__
 - Points: __200__ points in total, 100 points in each part – see [__Evaluation Rules__](#evaluation-rules) for details.
 
 ## Project Rules
