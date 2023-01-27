@@ -121,7 +121,7 @@ Each mini-project has __three (3)__ parts - these parts will be made available a
 
 It is expected that you __collaborate__ with your peers - but you still need to put in your best *individual* effort in the mini projects.
 
-For each part, I have provided ONE __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work. The checkpoint is the _Saturday_ in the same week the respective part is released. Please notify me on Slack if you decide to utilize this opportunity.
+For each part, I have provided ONE __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft on Google Classroom. I will __NOT__ grade on your draft work. The checkpoint is the _Monday_ in the following week the respective part is released. Please notify me on Slack if you decide to utilize this opportunity.
 
 
 Completed notebooks should be submitted to Google Classroom. __No email submission will be accepted.__
