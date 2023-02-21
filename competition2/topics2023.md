@@ -9,7 +9,7 @@ Please use [this form](https://forms.gle/kobtyQkevvTRyKCR6) to rank these topics
 
 ## Topics:
 <!--+ __Topic 1__: [US Hospital Readmissions of Diabetes Patients](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)-->
- __Topic 1__: US Hospital Readmissions of Diabetes Patients
+ + __Topic 1__: US Hospital Readmissions of Diabetes Patients
 
 In this project, you are going to predict if a diabetic patient is going to be readmitted from a US hospital using various features such as __demographic information__ (e.g., race, gender, age), __healthcare information__ (e.g., time in hospital, number of visits, diagnosis) and __medical information__ (e.g., lab test results). The __target feature__ is `readmitted`, and contains three classes: `<30` means the patient is readmitted within `30` days, `>30` means the patient is readmitted more than `30` days, and `No` for no record of readmission.
 
@@ -27,7 +27,7 @@ On behalf of your client, the VP of Fraud Prevention at the bank, your task is t
 The previous consulting team managed to collect the data - with a detailed report (including a partial __data dictionary__) [here](https://github.com/feedzai/bank-account-fraud/blob/main/documents/datasheet.pdf). The data contains some demographic information, banking activities, and other information (with most of the PII removed or anonymized). The data was collected in a 8-month period. Each application is tagged as fraud (`1`) or not fraud (`0`). Note that only `1.1%` of the applications are fraudulent. [This paper](https://arxiv.org/pdf/2211.13358.pdf) might be helpful as well. 
 
 <!--+ __Topic 3__: [In-vehicle Coupon Recommendation](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)-->
-__Topic 3__: Car Insurance Claim Detection
++ __Topic 3__: Car Insurance Claim Detection
 
 This dataset contains 35,000 auto insurance policy from a large insurance company. Having a predictive model to predict whether a policy holder is going to make a claim in a short period of time (3-6 months) would be meaningful, for premium pricing, among other reasons.
 
