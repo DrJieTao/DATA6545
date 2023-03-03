@@ -7,7 +7,7 @@
 | ***fraud_bool*** | binary | __TARGET__, if the application is fraudulent or not | (True, False)/(0,1)|
 | **income** | continuous | Standardized annual income of the applicant | [.1, .9] |
 | ***DEMOGRAPHIC FEATURES***||COUNT: 12|
-| **name_email_similarity | continuous | similarity between email and applicant's name | [0,1] |
+| **name_email_similarity** | continuous | similarity between email and applicant's name | [0,1] |
 | **prev_address_months_count** | continuous | months in applicant's previous address | [-1, 380], `-1` denotes missing |
 | **current_address_months_count** | continuous | months in applicant's current address | [-1, 429], `-1` denotes missing |
 | **customer_age** | continuous | Applicants age rounded to decade | [10,90] |
