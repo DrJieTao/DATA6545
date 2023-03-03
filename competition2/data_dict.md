@@ -19,7 +19,7 @@
 | **housing_status** | categorical | current residential status of the applicant | 7 possible (anonymized) values |
 | **phone_home_valid** | binary | if applicant's home phone is valid | (True, False)/(0,1)|
 | **phone_home_valid** | binary | if applicant's mobile phone is valid | (True, False)/(0,1)|
-| ***APPLICATION FEATURES***||COUNT: 10||
+| ***APPLICATION FEATURES***||COUNT: 11||
 | **days_since_request** | continuous | days elapsed since the application | [0, 79] |
 | **intended_balcon_amount** | continuous | iniitial transfer amount in application (in *thousands* local currency) | [-16, 114] |
 | **payment_type** | categorical | Payment plan type | 5 possible (anonymized) values |
@@ -30,7 +30,8 @@
 | **keep_live_session** | binary | applicant choose to keep session live or not, after submit application | (True, False)/(0,1)| 
 | **referred** | categorical | if the application is referred, employee means the applicant is employee of the bank | (referred, not referred, employee) |
 | **proposed_credit_limit** | continuous | credit limit in the application, (in *thousands* local currency) | [200, 2000] |
-| ***CUSTOMER HISTORY FEATURES***||COUNT: 12||
+| **month** | continuous | month where the application was make | [0,7] |
+| ***CUSTOMER HISTORY FEATURES***||COUNT: 11||
 | **velocity_6h** | continuous | average number of applications per hour in the past 6 hours, prior to the current application | [-175, 16818] |
 | **velocity_24h** | continuous | average number of applications per hour in the past 24 hours, prior to the current application | [1297,9586] |
 | **velocity_4w** | continuous | average number of applications per hour in the past 4 weeks, prior to the current application | [2825,7020] |
@@ -42,4 +43,4 @@
 | **under_loan** | binary | if the applicant currently has a loan/mortgage account with the same bank | (True, False)/(0,1)| 
 | **canceled_other_cards** | binary | if the applicant canceled other account(s) the same bank | (Yes, No)/(0,1)| 
 | **default_load_or_card** | binary | if the applicant defaulted any loan or card before | (Yes, No)/(0,1)| 
-| **month** | continuous | month where the application was make | [0,7] |
+
