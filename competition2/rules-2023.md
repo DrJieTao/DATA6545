@@ -1,5 +1,5 @@
 <!--Starter files for Competition #2-->
-# DATA 6545 Competitoon 2: 
+# DATA 6545 Competition 2: 
 ## TBD <!-- ## Online Shoppers Purchasing Intentions--> 
 ## Spring 2023
 
