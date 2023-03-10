@@ -18,7 +18,7 @@
 | **email_is_free** | binary | if applicant's email domain is paid | (paid, free) |
 | **housing_status** | categorical | current residential status of the applicant | 7 possible (anonymized) values |
 | **phone_home_valid** | binary | if applicant's home phone is valid | (True, False)/(0,1)|
-| **phone_home_valid** | binary | if applicant's mobile phone is valid | (True, False)/(0,1)|
+| **phone_mobile_valid** | binary | if applicant's mobile phone is valid | (True, False)/(0,1)|
 | ***APPLICATION FEATURES***||COUNT: 11||
 | **days_since_request** | continuous | days elapsed since the application | [0, 79] |
 | **intended_balcon_amount** | continuous | iniitial transfer amount in application (in *thousands* local currency) | [-16, 114] |
